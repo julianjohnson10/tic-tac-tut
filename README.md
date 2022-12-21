@@ -1,6 +1,6 @@
 # Tic-Tac-Toe using React.
 
-![This is an image]('21-Dec-22 15_40_37.png')
+![This is an image]('/21-Dec-22 15_40_37.png')
 
 In the project directory, you can run:
 
