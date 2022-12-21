@@ -1,6 +1,6 @@
 # Tic-Tac-Toe using React.
 
-![image](21-Dec-22 15_40_37.png  "Text to show on mouseover").
+![image](/21-Dec-22 15_40_37.png  "Text to show on mouseover").
 
 In the project directory, you can run:
 
