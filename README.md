@@ -1,4 +1,4 @@
-# Tic-Tac-Toe using React.
+# Tic-Tac-Toe using React. Following the tutorial: https://react.dev/learn/tutorial-tic-tac-toe
 
 ![This is an image](https://github.com/julianjohnson10/tutorial/blob/a177ef747b798cc5894a2e901543bae813f399cb/21-Dec-22%2015_40_37.png)
 
